@@ -1,0 +1,54 @@
+{
+  "raw_shape": [
+    62983,
+    39
+  ],
+  "year_columns": [
+    2000,
+    2032
+  ],
+  "footer_or_blank_rows_dropped": 5,
+  "counterpart_area_values": [
+    "World"
+  ],
+  "duplicate_rows_removed": 0,
+  "duplicate_keys_removed": 0,
+  "cells_total": 2078274,
+  "cells_missing": 733228,
+  "missing_pct": 35.28,
+  "rows_with_no_data_at_all": 3340,
+  "long_rows_before_dropna": 2078274,
+  "long_rows_after_dropna": 1345046,
+  "countries_without_income_group": [
+    "Ethiopia"
+  ],
+  "countries": 120,
+  "aggregates": [
+    "East Asia & Pacific (excluding high income)",
+    "Europe & Central Asia (excluding high income)",
+    "IDA only",
+    "IDA total",
+    "Latin America & Caribbean (excluding high income)",
+    "Least developed countries: UN classification",
+    "Low & middle income",
+    "Low income",
+    "Lower middle income",
+    "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",
+    "Middle income",
+    "South Asia",
+    "Sub-Saharan Africa (excluding high income)",
+    "Upper middle income"
+  ],
+  "indicators": 576,
+  "indicators_by_unit": {
+    "USD": 541,
+    "Percent": 27,
+    "Years": 6,
+    "Other": 2
+  },
+  "fact_rows": 1345046,
+  "projection_rows": 98111,
+  "global_external_debt_latest_usd": 8939920662152.0,
+  "components_sum_latest_usd": 8944716144050.102,
+  "components_match_total": true
+}
